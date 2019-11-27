@@ -121,7 +121,7 @@ void verificar(int ninp, int nout, int ngate){
 int main(void){
   int i, k, ninp, nout, ngate, poss;
   char name[100]="circuito.txt", h[40];
-  printf("Por obsequio, insira o caminho para o arquivo de texto: ");
+  printf("Insira o caminho para o arquivo: ");
   FILE *circuito;
   circuito=fopen(name,"r");
   printf("\n\n");
