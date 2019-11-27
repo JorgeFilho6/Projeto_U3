@@ -21,7 +21,7 @@ AND 2 5 6
 INPUT 1 A
 INPUT 2 B
 INPUT 3 C
-OUTPUT 6 S
+OUTPUT 6 S 
 
 E por fim, essa é a tabela verdade do circuito, ou seja, é o que o programa deve mostrar ao final da sua execução:
 <img src="https://user-images.githubusercontent.com/54714661/69645634-3b2fd600-1045-11ea-90c2-6ff347fe41b5.png">
