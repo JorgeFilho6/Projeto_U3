@@ -25,7 +25,7 @@ OUTPUT 6 S
 
 E por fim, essa é a tabela verdade do circuito, ou seja, é o que o programa deve mostrar ao final da sua execução:
 <img src="https://user-images.githubusercontent.com/54714661/69645634-3b2fd600-1045-11ea-90c2-6ff347fe41b5.png">
-
+### 3. Execute o código:
 O circuito que você selecionar deve ser colocado no arquivo "circuito.txt". Separamos alguns exemplos de circuitos que você pode utilizar para testar o programa no arquivo "outros.txt".
 
 Obrigado por ler até aqui :D
