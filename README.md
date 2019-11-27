@@ -13,7 +13,7 @@ Essa parte é simples. Abra o repositório e faça o download do mesmo.
 Você já tem em suas mãos o programa, agora precisamos do circuito. Para isso, preparamos alguns exemplos de circuito que podem ser utilizados para testar o programa, como esse, selecionado pelo próprio professor:
 <img src="https://user-images.githubusercontent.com/54714661/69645040-420a1900-1044-11ea-886b-0c98e63200a9.png">
 Essa é a expressão lógica que representa esse circuito: 
-NOT 1 4
+NOT 1 4 \n
 AND 2 3 8
 NOR 4 8 7
 AND 1 7 5
