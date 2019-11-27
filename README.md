@@ -14,16 +14,16 @@ Você já tem em suas mãos o programa, agora precisamos do circuito. Para isso,
 <img src="https://user-images.githubusercontent.com/54714661/69645040-420a1900-1044-11ea-886b-0c98e63200a9.png">
 Essa é a expressão lógica que representa esse circuito: 
 
-CIRCUIT Expressao logica
-NOT 1 4
-AND 2 3 8
-NOR 4 8 7
-AND 1 7 5
-AND 2 5 6
-INPUT 1 A
-INPUT 2 B
-INPUT 3 C
-OUTPUT 6 S
+#### CIRCUIT Expressao logica
+#### NOT 1 4
+#### AND 2 3 8
+#### NOR 4 8 7
+#### AND 1 7 5
+#### AND 2 5 6
+#### INPUT 1 A
+#### INPUT 2 B
+#### INPUT 3 C
+#### OUTPUT 6 S
 
 E por fim, essa é a tabela verdade do circuito, ou seja, é o que o programa deve mostrar ao final da sua execução:
 <img src="https://user-images.githubusercontent.com/54714661/69645634-3b2fd600-1045-11ea-90c2-6ff347fe41b5.png">
